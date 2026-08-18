@@ -25,7 +25,7 @@
 - **右下角读条**：`Rolling x% (倒计时) · Weekly x% (倒计时)`
 - **`/usage-glm-cn` 命令**：5 小时滚动窗口 + 周配额 + MCP 月度配额，各带重置倒计时
 - **密钥安全**：只在 DSH 主机端解析，绝不进浏览器
-- **邀请注册**：我正在智谱大模型开放平台 BigModel.cn 上打造 AI 应用，智谱新一代旗舰模型 GLM-5.2 已上线，在推理、代码、智能体综合能力达到开源模型 SOTA 水平，通过我的邀请链接注册即可获得 **2000 万 Tokens 大礼包**，期待和你一起在 BigModel 上畅享卓越模型能力 → [https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D)
+- **邀请注册**：[BigModel.cn](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D) 新用户送 **2000 万 Tokens**，GLM-5.2 旗舰模型可试用
 
 ## 系列插件 / Family
 
@@ -109,7 +109,7 @@ Put your Z.ai / ZhipuAI GLM Coding Plan quota right inside the DSH conversation 
 - **Composer chip**: `Rolling x% (countdown) · Weekly x% (countdown)`
 - **`/usage-glm-cn` command**: 5-hour rolling window + weekly quota + MCP monthly quota, each with a reset countdown
 - **Key safety**: resolved host-side only, never inlined into the browser
-- **Invitation**: sign up on BigModel.cn via my referral link and get a **20M-token welcome pack** — GLM-5.2, the new flagship, reaches open-source SOTA across reasoning, coding and agentic capabilities → [https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D)
+- **Invitation**: [BigModel.cn](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D) — **20M free tokens** for new sign-ups, GLM-5.2 flagship included
 
 ## Prerequisites
 
