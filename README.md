@@ -22,9 +22,10 @@
 
 把智谱 BigModel / Z.ai GLM Coding Plan 订阅配额放进 DSH 对话界面：输入 `/usage-glm-cn` 查看完整报告；选中 GLM 模型时，输入框右下角常驻读条，每分钟自动刷新。切到其他模型自动隐藏。
 
-- **右下角读条**：`Rolling x% (倒计时) · Weekly x% (倒计时)`，点击直达智谱开放平台（邀请链接，新注册得 2000 万 tokens 礼包）
+- **右下角读条**：`Rolling x% (倒计时) · Weekly x% (倒计时)`
 - **`/usage-glm-cn` 命令**：5 小时滚动窗口 + 周配额 + MCP 月度配额，各带重置倒计时
 - **密钥安全**：只在 DSH 主机端解析，绝不进浏览器
+- **邀请注册**：我正在智谱大模型开放平台 BigModel.cn 上打造 AI 应用，智谱新一代旗舰模型 GLM-5.2 已上线，在推理、代码、智能体综合能力达到开源模型 SOTA 水平，通过我的邀请链接注册即可获得 **2000 万 Tokens 大礼包**，期待和你一起在 BigModel 上畅享卓越模型能力 → [https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D)
 
 ## 系列插件 / Family
 
@@ -105,9 +106,10 @@ Rolling 1.0% (4h 16m) · Weekly 19.0% (1d 17h 50m)
 
 Put your Z.ai / ZhipuAI GLM Coding Plan quota right inside the DSH conversation UI: type `/usage-glm-cn` for a full report, and while a GLM model is selected, a live chip sits in the bottom-right of the composer — auto-refreshed every minute. Hides itself automatically on other models.
 
-- **Composer chip**: `Rolling x% (countdown) · Weekly x% (countdown)`; click through to the BigModel platform (referral link — new sign-ups get a 20M-token welcome pack)
+- **Composer chip**: `Rolling x% (countdown) · Weekly x% (countdown)`
 - **`/usage-glm-cn` command**: 5-hour rolling window + weekly quota + MCP monthly quota, each with a reset countdown
 - **Key safety**: resolved host-side only, never inlined into the browser
+- **Invitation**: sign up on BigModel.cn via my referral link and get a **20M-token welcome pack** — GLM-5.2, the new flagship, reaches open-source SOTA across reasoning, coding and agentic capabilities → [https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D)
 
 ## Prerequisites
 
