@@ -25,7 +25,7 @@
 - **右下角读条**：`Rolling x% (倒计时) · Weekly x% (倒计时)`
 - **`/usage-glm-cn` 命令**：5 小时滚动窗口 + 周配额 + MCP 月度配额，各带重置倒计时
 - **密钥安全**：只在 DSH 主机端解析，绝不进浏览器
-- **邀请注册**：[BigModel.cn](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D) 新用户送 **2000 万 Tokens**，GLM-5.2 旗舰模型可试用
+- **邀请注册**：[BigModel.cn](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D) 新用户送 **2000 万 Tokens**，GLM-5.3 旗舰模型可试用
 
 ## 系列插件 / Family
 
@@ -109,7 +109,7 @@ Put your Z.ai / ZhipuAI GLM Coding Plan quota right inside the DSH conversation 
 - **Composer chip**: `Rolling x% (countdown) · Weekly x% (countdown)`
 - **`/usage-glm-cn` command**: 5-hour rolling window + weekly quota + MCP monthly quota, each with a reset countdown
 - **Key safety**: resolved host-side only, never inlined into the browser
-- **Invitation**: [BigModel.cn](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D) — **20M free tokens** for new sign-ups, GLM-5.2 flagship included
+- **Invitation**: [BigModel.cn](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D) — **20M free tokens** for new sign-ups, GLM-5.3 flagship included
 
 ## Prerequisites
 
