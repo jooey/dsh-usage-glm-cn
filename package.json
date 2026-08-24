@@ -1,6 +1,6 @@
 {
   "name": "dsh-usage-glm-cn",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "DSH command plugin: /usage-glm-cn command and composer readout for your Z.ai / ZhipuAI GLM Coding Plan subscription quota usage",
   "type": "module",
   "main": "lib/index.js",
