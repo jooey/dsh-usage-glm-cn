@@ -22,8 +22,9 @@
 
 把智谱 BigModel / Z.ai GLM Coding Plan 订阅配额放进 DSH 对话界面：输入 `/usage-glm-cn` 查看完整报告；选中 GLM 模型时，输入框右下角常驻读条，每分钟自动刷新。切到其他模型自动隐藏。
 
-- **右下角读条**：`Rolling x% (倒计时) · Weekly x% (倒计时)`
+- **右下角读条**：`Rolling x% (倒计时) · Weekly x% (倒计时) · Peak / Off-peak 50%`
 - **`/usage-glm-cn` 命令**：5 小时滚动窗口 + 周配额 + MCP 月度配额，各带重置倒计时
+- **峰谷提示**：高峰 = 北京时间工作日 14:00–18:00（积分全额抵扣）；其余时段（含周末全天）按基础积分 50% 抵扣，读条实时显示当前时段
 - **密钥安全**：只在 DSH 主机端解析，绝不进浏览器
 - **邀请注册**：[BigModel.cn](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D) 新用户送 **2000 万 Tokens**，GLM-5.3 旗舰模型可试用
 
@@ -37,7 +38,7 @@
 | `dsh-usage-deepseek` | DeepSeek | 账户余额 + 波峰/波谷 |
 | `dsh-usage-minimax-cn` | MiniMax Coding Plan | coding / video 分服务配额 |
 | `dsh-usage-kimi-cn` | Kimi Coding Plan | Rolling / Weekly 配额 |
-| `dsh-usage-glm-cn` | Z.ai GLM Coding Plan | Rolling / Weekly / MCP 配额 |
+| `dsh-usage-glm-cn` | Z.ai GLM Coding Plan | Rolling / Weekly / MCP 配额 + 峰谷时段 |
 
 ## 先决条件 / Prerequisites
 
@@ -92,7 +93,7 @@ dsh plugin --profile web add github:jooey/dsh-usage-glm-cn
 ```text
 右下角读条：
 
-Rolling 1.0% (4h 16m) · Weekly 19.0% (1d 17h 50m)
+Rolling 1.0% (4h 16m) · Weekly 19.0% (1d 17h 50m) · Off-peak 50%
 ```
 
 ## Troubleshooting
@@ -106,8 +107,9 @@ Rolling 1.0% (4h 16m) · Weekly 19.0% (1d 17h 50m)
 
 Put your Z.ai / ZhipuAI GLM Coding Plan quota right inside the DSH conversation UI: type `/usage-glm-cn` for a full report, and while a GLM model is selected, a live chip sits in the bottom-right of the composer — auto-refreshed every minute. Hides itself automatically on other models.
 
-- **Composer chip**: `Rolling x% (countdown) · Weekly x% (countdown)`
+- **Composer chip**: `Rolling x% (countdown) · Weekly x% (countdown) · Peak / Off-peak 50%`
 - **`/usage-glm-cn` command**: 5-hour rolling window + weekly quota + MCP monthly quota, each with a reset countdown
+- **Peak/off-peak hint**: peak = Beijing weekdays 14:00–18:00 (100% point deduction); all other times, including weekends, deduct at 50% — the chip shows the live window
 - **Key safety**: resolved host-side only, never inlined into the browser
 - **Invitation**: [BigModel.cn](https://www.bigmodel.cn/invite?icode=Qbwih5FAW6myRWsJajN0mpmwcr074zMJTpgMb8zZZvg%3D) — **20M free tokens** for new sign-ups, GLM-5.3 flagship included
 
